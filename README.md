@@ -37,5 +37,3 @@ If you have Jupyter Notebook installed, you can run the interactive version:
   
 - For .ipynb version: Jupyter Notebook
 
-## License
-This project is licensed under the MIT License
