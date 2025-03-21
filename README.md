@@ -24,10 +24,12 @@ The game is available in two formats:
 
 ### Python (.py)
 Run the game by executing in the command line:
+
 ```python EXOMAROONED.py```
 
 ### Jupyter Notebook (.ipynb)
 If you have Jupyter Notebook installed, you can run the interactive version:
+
 ```jupyter notebook EXOMAROONED.ipynb```
 
 ## Requirements
